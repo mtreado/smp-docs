@@ -1,4 +1,4 @@
-# SubscriptionMgt_SM_TSL (Codeunit)
+# SubscriptionMgt_SM_TSL (Codeunit) 
 SubscriptionMgt_SM_TSL codeunit contains all the code blocks for the integration aspect of the Subscription Management app. It comprises multiple functions as described below. 
 Before progressing, please ensure that the Subscription Management extension is installed into your development environment and the right dependency has been defined in your extension's `app.json`: 
 ```json
